@@ -1,4 +1,4 @@
-# Queries ejecutadas en el curso en GraphiQL
+# Queries GraphiQL
 
 ## Alias y Fragments
 
